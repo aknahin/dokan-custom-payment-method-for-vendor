@@ -6,4 +6,3 @@ here are two fields for payment information one is coinbase wallet name and amot
 The vendor withdraw data will look like this:<br>
 ![coinbase payment details](https://github.com/aknahin/dokan-custom-payment-method-for-vendor/blob/main/Payment%20details%20preview.png?raw=true)
 <br>
-<iframe src="https://drive.google.com/file/d/1Us3m8Kn6wClf_FzCB-zkszsRTyFyvnv2/preview" width="640" height="480" allow="autoplay"></iframe>
